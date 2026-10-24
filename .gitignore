@@ -1,0 +1,12 @@
+/*
+!/README.md
+!/LICENSE
+!/.gitignore
+!/bootstrap.py
+!/rebuild.sh
+!/cross-arm64.init.gradle
+!/test-arm64.py
+!/package-arm64.py
+!/temurin25-arm64.json
+!/temurin25-amd64.json
+!/RELEASE_NOTES.md
